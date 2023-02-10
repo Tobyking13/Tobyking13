@@ -1,4 +1,4 @@
-# Toby King 🌊  🎶  💻 
+# Toby King 🌊  🎶  💻  
 
 `Javascript Developer` 
 

@@ -23,7 +23,7 @@ I am a skilled front-end web developer with expertise in JavaScript, HTML, CSS, 
 
 #          
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tobyking13&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight" alt="my Github Stats"/>  &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tobyking13&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
+<img align="center" style="height:185px" src="https://github-readme-stats.vercel.app/api?username=Tobyking13&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight" alt="my Github Stats"/>  &nbsp;  &nbsp; <img align="center" style="height:185px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tobyking13&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
 
 #
 

@@ -24,8 +24,7 @@ I am a skilled front-end web developer with expertise in JavaScript, HTML, CSS, 
 
 #          
 
-
-![Toby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tobyking13&show_icons=true&theme=tokyonight&count_private=true.)&nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobyking13&layout=compact&theme=tokyonight)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tobyking13&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight" alt="my Github Stats"/>  &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tobyking13&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
 
 #
 
@@ -39,4 +38,4 @@ I am always pushing the boundaries of what is possible in web development and se
 
 If you're looking for a web developer who is truly dedicated to the craft, with a passion for music, and a love of the natural beauty of Cornwall, look no further. I am confident in my ability to bring your vision to life and create a web presence that sets you apart from the competition.
 
-
+  

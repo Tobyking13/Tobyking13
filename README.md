@@ -28,7 +28,7 @@ I am a skilled front-end web developer with expertise in JavaScript, HTML, CSS, 
 #
 
 <details>
-<summary><h3>Toby's coding journey </h3></summary>
+<summary><h3>My coding journey </h3></summary>
 I am a driven front-end web developer with a passion for coding and design. My love for music and sound engineering, combined with my technical skills, bring a unique perspective to my work. Hailing from London, I am currently residing in Cornwall where I am able to immerse myself in the beauty of the coast while pursuing my passion for web development.
 
 I taught myself the basics of coding and web development, and my passion for the field led me to continue my education by studying front-end web development. My expertise in JavaScript, HTML, CSS, and CSS libraries like Bootstrap and Bulma, enables me to create dynamic and visually stunning websites that engage and delight users. My experience with jQuery, version control and collaboration tools like Git and Github, make me a seasoned professional who is able to work efficiently and effectively on projects, both individually and as part of a team.

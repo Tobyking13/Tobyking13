@@ -1,6 +1,6 @@
 # Toby King 🌊  🎶  💻  
 
-`https://tobyking.dev` 
+`JavaScript Developer:` <a>https://www.tobyking.dev</a> 
 
 I am a skilled front-end web developer with expertise in JavaScript, HTML, CSS, CSS libraries, and jQuery. I bring dynamic and visually stunning web experiences to life, with a focus on user-friendliness and creative design. My experience with Git and Github enables efficient and effective project collaboration. I continuously seek new technologies and techniques to bring my projects to the next level and deliver exceptional results.
 

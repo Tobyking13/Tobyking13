@@ -4,7 +4,7 @@ C++ / Qt software engineer based in Cornwall. I work at Allen & Heath building s
 
 Day to day that means writing C++ and QML, working on low-level areas like drivers and network protocols, and shipping features across multiple platforms. I also have a background in QA automation, which I carried into the engineering role.
 
-Before moving into C++, I taught myself web development and built a number of projects in JavaScript, React, Next.js, and Node.js — a few of which are pinned below.
+Before moving into C++, I taught myself web development and built a number of projects in JavaScript, React, Next.js, and Node.js. A few are pinned below.
 
 #
 
